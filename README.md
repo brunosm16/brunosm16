@@ -1,8 +1,6 @@
 <h1 align="center">🙋‍♂️ Olá, Eu sou o Bruno Silveira</h1>
 <h3 align="center">👨‍💻 Estudante de Ciência da Computação. Desenvolvedor web. Apaixonado por tecnologia e inovação.</h3>
 
-<p align="left"> <a href="https://twitter.com/whos_bsm" target="blank"><img src="https://img.shields.io/twitter/follow/@whos_bsm?logo=twitter&style=for-the-badge" alt="whos_bsm" /></a> </p>
-
 - 📚 I’m currently learning **Node Js**
 
 <h3 align="left">Connect with me:</h3>
