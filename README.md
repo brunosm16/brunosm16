@@ -1,5 +1,5 @@
-<h1 align="center">🙋‍♂️ Olá, Eu sou o Bruno Silveira</h1>
-<h3 align="center">👨‍💻 Estudante de Ciência da Computação. Desenvolvedor web. Apaixonado por tecnologia e inovação.</h3>
+<h1 align="center">🙋‍♂️ Hi, I'm Bruno Silveira</h1>
+<h3 align="center">👨‍💻 Computer Science Student. Web Developer. I am passionate about technology and innovation.</h3>
 
 - 📚 I’m currently learning **Node Js**
 
