@@ -1,21 +1,32 @@
-<h1 align="center">🙋‍♂️ Hi, I'm Bruno Silveira</h1>
-<h3 align="center">👨‍💻 Computer Science Student. Web Developer. I am passionate about technology and innovation.</h3>
 
-- 📚 I’m currently learning **Node Js**
+<h1 align="left">🙋‍♂️ Bruno Silveira</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/brunosm16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brunosm16" height="30" width="40" /></a>
-<a href="https://dev.to/brunosm16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="brunosm16" height="30" width="40" /></a>
-<a href="https://twitter.com/@whos_bsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@whos_bsm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bruno-silveira22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-silveira22" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/257713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="257713" height="30" width="40" /></a>
-<a href="https://codesandbox.com/brunosm16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="brunosm16" height="30" width="40" /></a>
-<a href="https://dribbble.com/brunosilveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="brunosilveira" height="30" width="40" /></a>
-<a href="https://medium.com/brunosm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="brunosm" height="30" width="40" /></a>
+<p align="left">👨‍💻 Estudante de Ciência da Computação e Desenvolvedor Web.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://linkedin.com/in/bruno-silveira22" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bruno-silveira22" /> 
+</a>
+
+##
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /> 
+</a>
+<a href="https://sass-lang.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> 
+</a>
+
+<br/>
+  
+<a href="https://reactjs.org/" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> 
+</a> 
+<a href="https://reactrouter.com/" target="blank"><img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router" /> 
+<a/>
+<a href="https://redux.js.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> 
+<a/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunosm16&show_icons=true&locale=en&layout=compact" alt="brunosm16" /></p>
