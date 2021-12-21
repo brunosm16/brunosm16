@@ -1,32 +1,27 @@
+## Olá 👋 
+Desenvolvedor Node e estudante de Ciência da Computação(UECE). 
 
-<h1 align="left">🙋‍♂️ Bruno Silveira</h1>
+Atualmente aprendendo TypeScript e Jest.
 
-<p align="left">👨‍💻 Estudante de Ciência da Computação e Desenvolvedor Web.
-</p>
+<a href="https://linkedin.com/in/bruno-silveira22" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bruno-silveira22" />  
 
-<p align="left">
-<a href="https://linkedin.com/in/bruno-silveira22" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bruno-silveira22" /> 
-</a>
+## 💻 Tecnologias e Ferramentas
+<div  style="display: inline_block">
+<img  align="center"  alt="Bruno-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img  align="center"  alt="Bruno-Ts"  height="30"  width="40"  
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img  align="center"  alt="Bruno-HTML"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img  align="center"  alt="Bruno-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img 
+align="center"  alt="Bruno-CSS" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-##
+</div>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /> 
-</a>
-<a href="https://sass-lang.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> 
-</a>
+## 📈 🚀 GitHub Stats
 
+<div  align="center">
+<a  href="https://github.com/rafaballerini">
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=brunosm16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br/>
-  
-<a href="https://reactjs.org/" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> 
-</a> 
-<a href="https://reactrouter.com/" target="blank"><img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router" /> 
-<a/>
-<a href="https://redux.js.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> 
-<a/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunosm16&show_icons=true&locale=en&layout=compact" alt="brunosm16" /></p>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosm16&layout=compact&langs_count=7&theme=dracula"/>
+</div>
