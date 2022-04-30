@@ -1,27 +1,71 @@
-## Olá 👋 
-Desenvolvedor Node e estudante de Ciência da Computação(UECE). 
+<h2>Hey there, I'm Bruno Silveira ✨ <img width="30px"></h2>
+ 
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=yellow)](https://www.linkedin.com/in/bruno-silveira22)     [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=yellow)](mailto:brunoskr23@gmail.com) 
 
-Atualmente aprendendo TypeScript e Jest.
+I am a Computer Science student and Web Developer and a self-taught passionate programmer who loves to code. Creating new solutions and solving problems is my motivation. 🚀
 
-<a href="https://linkedin.com/in/bruno-silveira22" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bruno-silveira22" />  
+<img  src="https://images.hdqwalls.com/wallpapers/groot-i-am-root-qhd.jpg">
 
-## 💻 Tecnologias e Ferramentas
-<div  style="display: inline_block">
-<img  align="center"  alt="Bruno-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img  align="center"  alt="Bruno-Ts"  height="30"  width="40"  
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img  align="center"  alt="Bruno-HTML"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img  align="center"  alt="Bruno-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img 
-align="center"  alt="Bruno-CSS" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+- 💜 I’m currently focusing on improve my knowledge in **SQL and Vue**,  and practicing **queries** with leetcode challenges everyday.
 
-</div>
+- 🏡💻 I’m currently working at [Casa Magalhães](https://github.com/casamagalhaes) as Full-Stack(Node/Vue) developer. 
 
-## 📈 🚀 GitHub Stats
+- ⚡ A little bit about my skills : 
+   -   As a Computer Science Student i learned the fundamentals behind programming such as Data Structures, OOP, Complexity Analysis...
+   - As a web developer, I started building APIs with Java/Spring Boot, but switched to NodeJs/Express. I also learned technologies to build pages with frameworks like React, Angular and Vue but currently I'm focused only on Vue.
+   - Other skills I'm learning/improving are clean code, clean architecture, TDD pattern and integration/unit tests.
 
-<div  align="center">
-<a  href="https://github.com/rafaballerini">
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=brunosm16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<br/>
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosm16&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<h3  align="left">Languages, Frameworks, Libraries 📦</h3>
+
+<p  align="left">  
+<img  
+src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+ <img  
+src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+ <img  
+src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img  
+src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img  
+src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img  
+src="https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)"/>
+<img  
+src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+<img  
+src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img  
+src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+<hr/>
+<h3  align="left">Tools 🧰 </h3>
+<p  align="left">  
+<img  
+src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img  
+src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"/>
+<img  
+src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img  
+src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img  
+src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img  
+src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
+<img  
+src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=brunosm16&theme=gruvbox)
+
+  
+
+<img  src  =  "https://github-readme-streak-stats.herokuapp.com?user=brunosm16&theme=gruvbox&hide_border=false"  width  =  500>
+
+  
+
+<img  src  =  "https://github-readme-stats.vercel.app/api?username=brunosm16&show_icons=true&theme=gruvbox"  width  =  500>
+
+  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosm16&theme=gruvbox)](https://github.com/brunosm16/github-readme-stats)
