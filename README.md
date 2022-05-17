@@ -1,10 +1,11 @@
+
 <h2>Hey there, I'm Bruno Silveira ✨ <img width="30px"></h2>
  
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=yellow)](https://www.linkedin.com/in/bruno-silveira22)     [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=yellow)](mailto:brunoskr23@gmail.com) 
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/bruno-silveira22)     [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=purple)](mailto:brunoskr23@gmail.com) 
 
-I am a Computer Science student and Web Developer and a self-taught passionate programmer who loves to code. Creating new solutions and solving problems is my motivation. 🚀
+I am a Computer Science student and Web Developer who loves to code. Creating new solutions and solving problems is my motivation. 🚀
 
-<img  src="https://images.hdqwalls.com/wallpapers/groot-i-am-root-qhd.jpg">
+<img  src="https://i.ibb.co/PM4P54Q/purple-code-3.jpg">
 
 - 💜 I’m currently focusing on improve my knowledge in **SQL and Vue**,  and practicing **queries** with leetcode challenges everyday.
 
@@ -56,16 +57,16 @@ src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=ya
 src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=brunosm16&theme=gruvbox)
+![github graph](https://activity-graph.herokuapp.com/graph?username=brunosm16&theme=dracula)
 
   
 
-<img  src  =  "https://github-readme-streak-stats.herokuapp.com?user=brunosm16&theme=gruvbox&hide_border=false"  width  =  500>
+<img  src  =  "https://github-readme-streak-stats.herokuapp.com?user=brunosm16&theme=dracula&hide_border=false"  width  =  500>
 
   
 
-<img  src  =  "https://github-readme-stats.vercel.app/api?username=brunosm16&show_icons=true&theme=gruvbox"  width  =  500>
+<img  src  =  "https://github-readme-stats.vercel.app/api?username=brunosm16&show_icons=true&theme=dracula"  width  =  500>
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosm16&theme=gruvbox)](https://github.com/brunosm16/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosm16&theme=dracula)](https://github.com/brunosm16/github-readme-stats)
