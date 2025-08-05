@@ -1,72 +1,49 @@
+# Hi, I'm Bruno Moraes
 
-<h2>Hey there, I'm Bruno Silveira ✨ <img width="30px"></h2>
- 
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/bruno-silveira22)     [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=purple)](mailto:brunoskr23@gmail.com) 
+**Software Engineer** specializing in scalable architectures, microservices, and high-performance integrations.
 
-I am a Computer Science student and Web Developer who loves to code. Creating new solutions and solving problems is my motivation. 🚀
+## About
 
-<img  src="https://i.ibb.co/PM4P54Q/purple-code-3.jpg">
+I transform complex business processes into robust technical solutions that directly impact user experience and business results. My focus is on building systems that process large data volumes with reliability and efficiency, always prioritizing performance optimization and cost effectiveness.  
 
-- 💜 I’m currently focusing on improve my knowledge in **SQL and Vue**,  and practicing **queries** with leetcode challenges everyday.
+**3+ years** of professional experience • **Systems Analysis and Development** student at São Cruzeiro do Sul Virtual.
 
-- 🏡💻 I’m currently working at [Casa Magalhães](https://github.com/casamagalhaes) as Full-Stack(Node/Vue) developer. 
+## Core Technologies
 
-- ⚡ A little bit about my skills : 
-   -   As a Computer Science Student i learned the fundamentals behind programming such as Data Structures, OOP, Complexity Analysis...
-   - As a web developer, I started building APIs with Java/Spring Boot, but switched to NodeJs/Express. I also learned technologies to build pages with frameworks like React, Angular and Vue but currently I'm focused only on Vue.
-   - Other skills I'm learning/improving are clean code, clean architecture, TDD pattern and integration/unit tests.
+**Backend**:
 
-<h3  align="left">Languages, Frameworks, Libraries 📦</h3>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 
-<p  align="left">  
-<img  
-src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
- <img  
-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
- <img  
-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- <img  
-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
- <img  
-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
- <img  
-src="https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)"/>
-<img  
-src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-<img  
-src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-<img  
-src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-<hr/>
-<h3  align="left">Tools 🧰 </h3>
-<p  align="left">  
-<img  
-src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img  
-src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"/>
-<img  
-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img  
-src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img  
-src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img  
-src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
-<img  
-src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
+**Cloud**:
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=brunosm16&theme=dracula)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 
-  
+**Databases**:
 
-<img  src  =  "https://github-readme-streak-stats.herokuapp.com?user=brunosm16&theme=dracula&hide_border=false"  width  =  500>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-  
+**Architecture**:
 
-<img  src  =  "https://github-readme-stats.vercel.app/api?username=brunosm16&show_icons=true&theme=dracula"  width  =  500>
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=microgenetics&logoColor=white) ![Pub/Sub](https://img.shields.io/badge/Pub/Sub-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-  
+**DevOps**:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosm16&theme=dracula)](https://github.com/brunosm16/github-readme-stats)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
+
+**Frontend**:
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+
+## Currently
+
+Software Engineer at Boticário, developing retail solutions.
+
+Currently learning more about Java, System Design, and Software Design.
+## Connect
+
+- **LinkedIn**: [linkedin.com/in/bruno-moraes](https://linkedin.com/in/bruno-moraes)
+
+- **Email**: brunoskr23@gmail.com
+
+**“Simplicity is prerequisite for reliability.”**  
+― Edsger W. Dijkstra
