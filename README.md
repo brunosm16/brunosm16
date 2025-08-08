@@ -41,7 +41,7 @@ Software Engineer at Boticário, developing retail solutions.
 Currently learning more about Java, System Design, and Software Design.
 ## Connect
 
-- **LinkedIn**: [linkedin.com/in/bruno-moraes](https://linkedin.com/in/bruno-moraes)
+- **LinkedIn**: [linkedin.com/in/bruno-moraes](https://www.linkedin.com/in/brunos-moraes/)
 
 - **Email**: brunoskr23@gmail.com
 
