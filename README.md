@@ -6,7 +6,7 @@
 
 I transform complex business processes into robust technical solutions that directly impact user experience and business results. My focus is on building systems that process large data volumes with reliability and efficiency, always prioritizing performance optimization and cost effectiveness.  
 
-**3+ years** of professional experience • **Systems Analysis and Development** student at São Cruzeiro do Sul Virtual.
+**3+ years** of professional experience • **Systems Analysis and Development** student at Cruzeiro do Sul Virtual.
 
 ## Core Technologies
 
