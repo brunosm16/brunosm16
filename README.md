@@ -36,7 +36,7 @@ I transform complex business processes into robust technical solutions that dire
 
 ## Currently
 
-Software Engineer at Boticário, developing retail solutions.
+Software Engineer at Conta Azul, developing financial solutions.
 
 Currently learning more about Java, System Design, and Software Design.
 ## Connect
